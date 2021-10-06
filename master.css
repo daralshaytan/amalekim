@@ -44,7 +44,7 @@ body {
     
 }
 
-h1{color: rgb(219, 219, 219);}
+h1{color: rgb(187, 66, 66);}
 #title-font {
     text-align: center;
     font-family: 'Ubuntu', sans-serif;
@@ -69,9 +69,7 @@ h1{color: rgb(219, 219, 219);}
     -ms-border-radius: 3px;
     -o-border-radius: 3px;
 }
-h1{ color: rgb(187, 66, 66);
-    font-size: 200px 100%;
-    text-align: center;}
+
 
 main{
 
